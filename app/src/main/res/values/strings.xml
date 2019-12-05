@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleRSSReader</string>
+    <string name="string_with_link">&lt;a href="https://vnexpress.net/suc-khoe">Sức Khỏe Vnexpress RSS&lt;/a></string>
+</resources>
